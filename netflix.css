@@ -1,0 +1,53 @@
+body{
+    background-image: url(dXB5cfN.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#pos{
+    list-style-type: none;
+    display: flex;
+    float: right;
+   /* padding-left: 1280px;
+      padding-bottom: 20px;
+      padding-top: 30px ;
+      */
+}
+  
+  #but{
+    display: flex;
+    justify-content: left;
+    color: white;
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: medium;
+    border-radius: 6%;
+  }
+  #body2 h1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 55px;
+    
+  }
+  #box1{
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    
+    
+   
+
+
+  }
+/*.name{
+    border: 1px solid white;
+    width: 90px;
+    height: fit-content;
+    text-align: center;
+    
+}*/
